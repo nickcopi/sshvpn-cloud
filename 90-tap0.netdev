@@ -1,0 +1,5 @@
+[NetDev]
+Name=tun0
+Kind=tun
+[Tunnel]
+Group=vhost-net

@@ -187,7 +187,7 @@ else
 	echo "   1) UDP (recommended)"
 	echo "   2) TCP"
 	#read -p "Protocol [1-2]: " -e -i 1 PROTOCOL
-	PROTOCOL=udp
+	PROTOCOL=tcp
 	echo
 	echo "What port do you want OpenVPN listening to?"
 	#read -p "Port: " -e -i 1194 PORT

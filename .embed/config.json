@@ -1,0 +1,6 @@
+{
+	"name":"SSH Coyote Cloud",
+	"tags":["Cyber","Tools"],
+	"description":"Docker container to run in the cloud to host an OpenVPN server and SSH server to tunnel traffic into a secure network through the cloud.",
+	"date":"June 2019"
+}
